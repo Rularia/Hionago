@@ -1,0 +1,189 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "团子x"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "团子y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairBack2",
+			"GroupId": "",
+			"Name": "摇动 前发"
+		},
+		{
+			"Id": "ParamHairBack3",
+			"GroupId": "",
+			"Name": "摇动 侧发"
+		},
+		{
+			"Id": "ParamMouseX",
+			"GroupId": "",
+			"Name": "鼠标x"
+		},
+		{
+			"Id": "ParamMouseY",
+			"GroupId": "",
+			"Name": "鼠标y"
+		},
+		{
+			"Id": "ParamMouseLeftDown",
+			"GroupId": "",
+			"Name": "鼠标左"
+		},
+		{
+			"Id": "ParamMouseRightDown",
+			"GroupId": "",
+			"Name": "鼠标右"
+		},
+		{
+			"Id": "CatParamLeftHandDown",
+			"GroupId": "",
+			"Name": "键盘按下"
+		},
+		{
+			"Id": "Paramangry",
+			"GroupId": "",
+			"Name": "表情 嘴"
+		},
+		{
+			"Id": "Parambroweyes",
+			"GroupId": "",
+			"Name": "表情 眉眼"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "本体"
+		},
+		{
+			"Id": "Part3",
+			"Name": "团子"
+		},
+		{
+			"Id": "Part4",
+			"Name": "头发（刘海）"
+		},
+		{
+			"Id": "Part16",
+			"Name": "头"
+		},
+		{
+			"Id": "Part13",
+			"Name": "头发（后）"
+		},
+		{
+			"Id": "Part11",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part12",
+			"Name": "鼠标"
+		},
+		{
+			"Id": "Part14",
+			"Name": "键盘"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眼镜"
+		},
+		{
+			"Id": "Part17",
+			"Name": "鼻子 嘴"
+		},
+		{
+			"Id": "Part5",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part10",
+			"Name": "脸 耳朵"
+		},
+		{
+			"Id": "Part9",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part6",
+			"Name": "眼睛（生气）"
+		},
+		{
+			"Id": "Part15",
+			"Name": "眼睛 微笑"
+		},
+		{
+			"Id": "Part18",
+			"Name": "眼睛 哭泣"
+		},
+		{
+			"Id": "Part7",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part8",
+			"Name": "左眼"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"Param",
+			"Param2"
+		],
+		[
+			"ParamMouseX",
+			"ParamMouseY"
+		]
+	]
+}

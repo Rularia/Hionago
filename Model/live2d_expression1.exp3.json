@@ -1,0 +1,16 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.8,
+	"Parameters": [
+		{
+			"Id": "Paramangry",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambroweyes",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

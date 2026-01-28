@@ -1,0 +1,15 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Paramangry",
+			"Value": 3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambroweyes",
+			"Value": 3,
+			"Blend": "Add"
+		}
+	]
+}

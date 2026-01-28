@@ -1,0 +1,18 @@
+# --- GUI Framework ---
+PySide6==6.10.1
+
+# --- AI & Network ---
+openai==2.14.0
+requests==2.32.5
+
+# --- Live2D & Graphics ---
+live2d-py==0.6.0.1
+PyOpenGL==3.1.10
+numpy==2.2.6
+pillow==12.0.0
+
+# --- Audio & Multimedia ---
+pygame==2.6.1
+
+# --- Windows System Integration ---
+pywin32==311 ; sys_platform == 'win32'
