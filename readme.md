@@ -1,6 +1,6 @@
 * # 🎭 AI Desktop CP Theatre | AI 桌面 CP 剧场 
 
-  [English Version](#english-version) | [简体中文说明](#简体中文说明)
+  [English Version](#-english-version) | [简体中文说明](#-简体中文说明)
 
   ---
 
@@ -67,4 +67,5 @@
 
 - **Development**: [Rularia]
 - **Illustrator**: [鱼骨] (Special Thanks!)
+
 - **Technology**: PySide6, Live2D SDK, SiliconFlow API.
