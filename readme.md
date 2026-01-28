@@ -21,11 +21,11 @@
   * **云端图库同步**：集成 Vika (维格表) API，支持画师建库共享，可在桌面上随机抽取展示画稿。
 
   ### 📺 视频教程 (Bilibili)
-  * **项目演示：** [https://www.bilibili.com/video/BV1hWkpBWEgu/?vd_source=2a22d3cc10b88540511827cbf197c468]
-  * **配置教学：**[此处填入你的 BV 号链接]
+  * **项目演示：** [https://www.bilibili.com/video/BV1hWkpBWEgu]
+  * **配置教学：** [https://www.bilibili.com/video/BV1yszXBWEfy]
 
   ### 🚀 快速上手 (EXE 便携版)
-  1.  **下载路径**: [https://wwbwd.lanzout.com/iBvS63h8mw5i](密码:2dy2) | [https://github.com/Rularia/Hionago]
+  1.  **下载路径**: [https://wwbwd.lanzout.com/iBvS63h8mw5i] (密码:2dy2) or Releases v1.0.0
   2.  **环境准备**: 运行前请确保安装 Visual C++ 2015-2022 运行库。
   3.  **路径规范**: 请务必解压至 **全英文路径** 运行，否则 Live2D 核心组件可能加载失败。
   4.  **项目状态**: 本项目目前为 Final Version (最终版)，逻辑已稳定脱敏。
@@ -46,12 +46,12 @@
 
   ### 📺 Video Tutorials (Bilibili)
 
-  * **Project Showcase:** [Link to your showcase video]
-  * **Setup & Configuration:** [Link to your tutorial video]
+  * **Project Showcase:** [https://www.bilibili.com/video/BV1hWkpBWEgu]
+  * **Setup & Configuration:** [https://www.bilibili.com/video/BV1yszXBWEfy]
 
   ### 🚀 Quick Start (Portable EXE)
 
-  1. **Download:** [https://wwbwd.lanzout.com/iBvS63h8mw5i](Passcode:2dy2)
+  1. **Download:** [https://wwbwd.lanzout.com/iBvS63h8mw5i] (Passcode:2dy2) or Releases v1.0.0
   2. **Prerequisites:** Ensure [Microsoft Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) is installed.
   4. **Project Status:** This is the **Final Version**. The logic has been stabilized and sensitive information has been sanitized. No further major updates are planned.
 
@@ -67,4 +67,5 @@
 
 - **Development**: [Rularia]
 - **Illustrator**: [鱼骨] (Special Thanks!)
+
 - **Technology**: PySide6, Live2D SDK, SiliconFlow API.
